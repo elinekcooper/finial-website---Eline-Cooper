@@ -99,6 +99,25 @@ img {
   padding: 5%;
 }
 
+.link{
+  background-color:  #6148AF;
+  color: #FFF;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 15pt;
+  padding: 4px 4px;
+}
+
+
+.link:hover{
+  background-color: #FFB349;
+  color: #6148AF;
+  border-radius: 20px;
+  text-decoration: none;
+  font-size: 15pt;
+  padding: 4px 4px;
+}
+
 
 /*---- navbar ----*/
 
